@@ -1,4 +1,4 @@
-Name:KAVALI SINDHU
+Name:KAVALI SINDHU 
 Company:ShadowFox
 Domain:AIML
 Duration:Fibruary to March 2026
